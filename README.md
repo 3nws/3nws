@@ -6,6 +6,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=3nws&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
+  
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </p>
 
 <p align="center">
