@@ -8,11 +8,6 @@
   <br>
 </p>
 
-<p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=3nws&repo=beako-bot">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=3nws&repo=yelp-camp">
-</p>
-
 
 <!--
 **3nws/3nws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
