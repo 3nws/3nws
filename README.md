@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=3nws&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=3nws&repo=pixel-weather">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=3nws&repo=beako-bot">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=3nws&repo=yelp-camp">
 </p>
 
 
