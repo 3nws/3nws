@@ -11,6 +11,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<img src="https://github.com/3nws/3nws/blob/main/images/stat.svg" alt="3nws WakaTime Activity"/>
 
 <!--
 **3nws/3nws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
