@@ -9,15 +9,15 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&cover_image=true&theme=novatorem&bar_color=ff0a0a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-197-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-210-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--636%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--635%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 110 Contributions in the Year 2022
+> 🏆 111 Contributions in the Year 2022
  > 
 > 📦 35.4 kB Used in GitHub's Storage 
  > 
@@ -30,22 +30,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.23% 
-🌆 Daytime    156 commits    █████████░░░░░░░░░░░░░░░░   37.23% 
-🌃 Evening    168 commits    ██████████░░░░░░░░░░░░░░░   40.1% 
-🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
+🌞 Morning    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+🌆 Daytime    156 commits    █████████░░░░░░░░░░░░░░░░   37.14% 
+🌃 Evening    169 commits    ██████████░░░░░░░░░░░░░░░   40.24% 
+🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
-Tuesday      87 commits     █████░░░░░░░░░░░░░░░░░░░░   20.76% 
-Wednesday    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-Thursday     48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
-Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-Saturday     65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Sunday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.84%
+Monday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Tuesday      87 commits     █████░░░░░░░░░░░░░░░░░░░░   20.71% 
+Wednesday    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+Thursday     48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Friday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
+Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.05%
 
 ```
 
@@ -82,7 +82,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2022 15:38:23 UTC
+ Last Updated on 06/02/2022 18:10:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
