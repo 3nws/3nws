@@ -9,8 +9,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&cover_image=true&theme=novatorem&bar_color=ff0a0a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2046%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-210-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--635%20Thousand%20lines%20of%20code-blue)
@@ -56,16 +54,22 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Istanbul
 
 💬 Programming Languages: 
-PHP                      13 mins             █████████████████████████   100.0%
+PHP                      2 hrs 1 min         ██████████████████░░░░░░░   73.02% 
+Python                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.83% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
+Mustache                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 46 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-game                     13 mins             █████████████████████████   100.0%
+game                     1 hr 40 mins        ███████████████░░░░░░░░░░   60.05% 
+twitter-text-classificati43 mins             ██████░░░░░░░░░░░░░░░░░░░   25.85% 
+Unknown Project          23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.1%
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.0%
+Windows                  2 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2022 18:10:31 UTC
+ Last Updated on 07/02/2022 00:26:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
