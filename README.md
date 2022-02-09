@@ -9,8 +9,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&cover_image=true&theme=novatorem&bar_color=ff0a0a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2023%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-222-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--630%20Thousand%20lines%20of%20code-blue)
@@ -88,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2022 18:09:37 UTC
+ Last Updated on 09/02/2022 00:27:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
