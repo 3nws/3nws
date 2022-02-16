@@ -9,8 +9,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&cover_image=true&theme=novatorem&bar_color=ff0a0a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2015%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-261-blue)
 
 **🐱 My GitHub Data** 
@@ -87,7 +85,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2022 12:13:12 UTC
+ Last Updated on 16/02/2022 00:24:10 UTC
 <!--END_SECTION:waka-->
 
 <!--
