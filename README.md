@@ -9,13 +9,11 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&cover_image=true&theme=novatorem&bar_color=ff0a0a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2015%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-261-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 137 Contributions in the Year 2022
+> 🏆 139 Contributions in the Year 2022
  > 
 > 📦 32.7 kB Used in GitHub's Storage 
  > 
@@ -39,8 +37,8 @@
 ```text
 Monday       65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.74% 
 Tuesday      89 commits     █████░░░░░░░░░░░░░░░░░░░░   21.55% 
-Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Thursday     48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
+Wednesday    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
+Thursday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
 Friday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
 Saturday     63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
 Sunday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08%
@@ -87,7 +85,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2022 06:09:24 UTC
+ Last Updated on 17/02/2022 00:23:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
