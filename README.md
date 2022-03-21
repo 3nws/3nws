@@ -8,13 +8,15 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&cover_image=true&theme=novatorem&bar_color=ff0a0a&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6ina68mkaqzvpogcq1v51dp37&redirect=true)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 240 Contributions in the Year 2022
  > 
-> 📦 41.4 kB Used in GitHub's Storage 
+> 📦 41.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,7 +86,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2022 00:30:46 UTC
+ Last Updated on 21/03/2022 06:10:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
