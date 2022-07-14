@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -77,7 +77,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2022 12:14:19 UTC
+ Last Updated on 14/07/2022 18:09:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
